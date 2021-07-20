@@ -1,0 +1,22 @@
+{
+    "name": "clarity-dark",
+    "displayName": "Clarity Dark",
+    "description": "Clarity Dark Color Theme",
+    "version": "0.0.1",
+    "publisher": "undeadevs",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Clarity Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Clarity Dark-color-theme.json"
+            }
+        ]
+    }
+}
